@@ -1,2 +1,2 @@
-# tumlbrplugin
-ChatGPT plugin connected with Tumblr.
+# KunihiroS profile
+This is KunihiroS main page explaining who KunihiroS is.
