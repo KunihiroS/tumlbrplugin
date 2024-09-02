@@ -12,4 +12,4 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 ![koha2](https://res.cloudinary.com/dqmo38a6s/image/upload/v1684222454/koha5_itrmvn.png)<br>
 
 ## Contact info
-Coming soon.
+Coming soon...
