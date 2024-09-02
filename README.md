@@ -3,6 +3,7 @@
 ## version: 1.0.0
 Initial release
 
+## Self introduction
 This is KunihiroS main page explaining who KunihiroS is.<br>
 My icon is my own created character (not genarated!!) named Koharu Hojo.<br>
 The character made by V-Katsu that the Ap devlopment has been terminated and removed from Steam.<br>
