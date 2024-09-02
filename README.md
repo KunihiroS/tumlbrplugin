@@ -13,6 +13,3 @@ I offer my requiem to V-Katsu, thank you V-Katsu forever V-Katsu.<br>
 
 ## Contact info
 Coming soon...
-
-## X
-Coming soon...
