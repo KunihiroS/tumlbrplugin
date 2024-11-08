@@ -1,7 +1,7 @@
 # KunihiroS profile
 
 ## version: 1.0.0
-Initial release of KunihiroS profile...
+Initial release of KunihiroS profile...!!!!
 
 ## Self introduction
 This is KunihiroS main page explaining who KunihiroS is.<br>
