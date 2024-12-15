@@ -1,7 +1,11 @@
 # KunihiroS profile
 
 ## version: 1.0.0
+<<<<<<< Updated upstream
 Initial release of KunihiroS profile...
+=======
+Initial release of KunihiroS profile:
+>>>>>>> Stashed changes
 
 ## Self introduction
 This is KunihiroS main page explaining who KunihiroS is.<br>
